@@ -11,3 +11,4 @@ C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\me
 C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.csproj.CoreCompileInputs.cache
 C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.exe
 C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.pdb
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.frmCalcu.resources

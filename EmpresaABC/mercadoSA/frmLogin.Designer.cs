@@ -94,7 +94,7 @@ namespace mercadoSA
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(378, 138);
+            this.txtUsuario.Location = new System.Drawing.Point(378, 148);
             this.txtUsuario.MaxLength = 50;
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(168, 20);

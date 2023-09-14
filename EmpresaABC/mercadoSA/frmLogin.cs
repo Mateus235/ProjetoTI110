@@ -29,9 +29,28 @@ namespace mercadoSA
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            frmMenuPrincipal abrir = new frmMenuPrincipal();
-            abrir.Show();
-            this.Hide();
+            //frmMenuPrincipal abrir = new frmMenuPrincipal();
+            //abrir.Show();
+            //this.Hide();
+
+
+            //declaração de variavel
+            string usuario, senha;
+
+            //inicializaçao das variaveis
+            usuario = txtUsuario.Text;
+
+            senha = txtSenha.Text;
+
+
+        }
+
+      
+
+     
+
+ 
+
         }
     }
-}
+
